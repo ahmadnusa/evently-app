@@ -1,4 +1,4 @@
-import { Document, Schema, model, models } from 'mongoose'
+import { Schema, model, models, Document } from 'mongoose'
 
 export interface IOrder extends Document {
   createdAt: Date
