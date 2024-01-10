@@ -98,7 +98,7 @@ export type Event = {
   }
 }
 
-// ====== CATEGORY PARAMS
+// ===== CATEGORY PARAMS
 export type CreateCategoryParams = {
   categoryName: string
 }
