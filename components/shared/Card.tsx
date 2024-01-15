@@ -71,7 +71,7 @@ export default function Card({ event, hasOrderLink, hidePrice }: CardProps) {
               <p className="text-primary-500">Order Details</p>
               <Image
                 src="/assets/icons/arrow.svg"
-                width={10}
+                width={10.1}
                 height={10}
                 alt="search"
               />

@@ -63,7 +63,7 @@ export default async function EventDetails({
                 <Image
                   src="/assets/icons/calendar.svg"
                   alt="calendar"
-                  width={32}
+                  width={32.1}
                   height={32}
                 />
                 <div className="p-medium-16 lg:p-regular-20 flex flex-wrap items-center">
@@ -91,7 +91,7 @@ export default async function EventDetails({
                 <Image
                   src="/assets/icons/location.svg"
                   alt="location"
-                  width={32}
+                  width={32.1}
                   height={32}
                 />
                 <p className="p-medium-16 lg:p-regular-20">{event.location}</p>
