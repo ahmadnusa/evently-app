@@ -64,7 +64,7 @@ Ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/ahmadnusa/evently-app.git
 cd your-project
 ```
 
